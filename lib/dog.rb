@@ -1,3 +1,4 @@
 class Dog
 
-end  
+  @this_dogs_name = name
+end
